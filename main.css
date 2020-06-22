@@ -1,0 +1,14 @@
+.buttonRow{
+  display: flex;
+  
+}
+.displayText, .detailText{
+  font-size: 48px;
+  height: 5rem;
+  width: 24.6rem;
+}
+
+button{
+  width: 5rem;
+  height: 5rem;
+}
